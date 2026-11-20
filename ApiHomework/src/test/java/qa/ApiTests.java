@@ -8,7 +8,6 @@ import org.testng.annotations.Test;
 import static io.restassured.RestAssured.given;
 
 public class ApiTests {
-git
     @Test
     public void getAvailablePetsReturns200() {
         Response response = given()
