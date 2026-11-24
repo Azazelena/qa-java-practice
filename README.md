@@ -31,7 +31,7 @@ Requirements: Java JDK and Maven.
 Run the following commands:
 cd ApiHomework
 mvn test
-Skills Demonstrated
+## Skills Demonstrated
 REST API automation
 HTTP request and response validation
 TestNG assertions
